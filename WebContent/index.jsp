@@ -3,7 +3,7 @@
 %>
 
 <html> 
-<head> <title>SQL Azure via JDBC</title> </head> 
+<head> <title>SQL Azure via JDBC Main Form</title> </head> 
 <body> 
 
 <form action = "Database.jsp">
